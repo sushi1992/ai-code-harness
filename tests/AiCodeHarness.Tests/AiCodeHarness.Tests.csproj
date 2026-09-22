@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.11.1" />
+    <PackageReference Include="MSTest.TestAdapter" Version="3.6.4" />
+    <PackageReference Include="MSTest.TestFramework" Version="3.6.4" />
+    <ProjectReference Include="../../src/AiCodeHarness.Application/AiCodeHarness.Application.csproj" />
+    <ProjectReference Include="../../src/AiCodeHarness.Domain/AiCodeHarness.Domain.csproj" />
+  </ItemGroup>
+</Project>
