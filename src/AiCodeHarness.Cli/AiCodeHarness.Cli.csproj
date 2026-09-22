@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <OutputType>Exe</OutputType>
+  <ItemGroup>
+    <ProjectReference Include="../AiCodeHarness.Application/AiCodeHarness.Application.csproj" />
+    <ProjectReference Include="../AiCodeHarness.Domain/AiCodeHarness.Domain.csproj" />
+    <ProjectReference Include="../AiCodeHarness.Infrastructure/AiCodeHarness.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>
