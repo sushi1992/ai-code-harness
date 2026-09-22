@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../AiCodeHarness.Domain/AiCodeHarness.Domain.csproj" />
+  </ItemGroup>
+</Project>
